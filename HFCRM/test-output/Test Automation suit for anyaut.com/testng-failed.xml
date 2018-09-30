@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Test Automation suit for anyaut.com]">
+  <listeners>
+    <listener class-name="com.qa.ExtentReportListener.ExtentReport"/>
+  </listeners>
+  <test thread-count="5" name="POM and DDF Test(failed)">
+    <classes>
+      <class name="com.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.qa.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- POM and DDF Test(failed) -->
+</suite> <!-- Failed suite [Test Automation suit for anyaut.com] -->

@@ -1,0 +1,9 @@
+2018-09-29 05:38:16,275  INFO [main] DashboardPageTest:30 - Entering into application
+2018-09-29 05:38:26,392  INFO [main] LoginPageTest:34 - Entering into application
+2018-09-29 05:38:34,283  WARN [main] ModulePageTest:35 - Hey this is warning
+2018-09-29 05:38:48,422  INFO [main] DashboardPageTest:30 - Entering into application
+2018-09-29 05:39:02,600  INFO [main] LoginPageTest:34 - Entering into application
+2018-09-29 05:39:11,876  WARN [main] ModulePageTest:35 - Hey this is warning
+2018-09-29 05:39:28,407  WARN [main] ModulePageTest:35 - Hey this is warning
+2018-09-29 05:39:47,545  INFO [main] DashboardPageTest:30 - Entering into application
+2018-09-29 05:40:07,358  INFO [main] LoginPageTest:34 - Entering into application
