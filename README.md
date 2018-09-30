@@ -1,2 +1,2 @@
-# MavenPOM
+# GitMavenPOM
 Repository for HF
