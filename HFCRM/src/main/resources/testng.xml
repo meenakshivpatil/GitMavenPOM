@@ -9,8 +9,8 @@
   <test name="POM and DDF Test">
     <classes>
        <class name="com.qa.testcases.LoginPageTest"/>
-       <!-- <class name="com.qa.testcases.DashboardPageTest"/> 
-       <class name="com.qa.testcases.ModulePageTest"/> -->       
+       <class name="com.qa.testcases.DashboardPageTest"/> 
+       <class name="com.qa.testcases.ModulePageTest"/>       
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
